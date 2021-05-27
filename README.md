@@ -1,4 +1,4 @@
-# POA Network - Proof of Bank Account (PoBA)
+# WOA Network - Proof of Bank Account (PoBA)
 
 [![Build Status](https://travis-ci.org/poanetwork/poa-poba.svg?branch=master)](https://travis-ci.org/poanetwork/poa-poba)
 [![Coverage Status](https://coveralls.io/repos/github/poanetwork/poa-poba/badge.svg?branch=master)](https://coveralls.io/github/poanetwork/poa-poba?branch=master)
